@@ -1,7 +1,7 @@
 <img src="Black Minimal Business Personal Profile Linkedin Banner.gif" alt="Header">
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README.md"><img src="376-3767133_usu-computer-science-logo-computer-science-logo-transparent.png" height="13">Computer Science Engineer </a></td></tr>
 </table>
 
 ### 👨‍💻 About Me
