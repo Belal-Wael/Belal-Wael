@@ -6,11 +6,11 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Belal Wael Badawy**, a motivated **Junior Full Stack Developer** from Egypt 🇪🇬.
+Hi! I'm **Belal Wael Badawy**, a motivated **Junior Full Stack Developer (React , Next , .Net , Angular)** from Egypt 🇪🇬.
 
 - 🎓 B.Sc. in Computer Science and Artificial Intelligence – Benha University (2021–2025), GPA: 3.7/4.0
 - 🚀 I have over a year of hands-on experience building dynamic, scalable web apps.
-- 💼 I'm currently training with **Digital Egypt Pioneers (DEPI)** as a Full Stack Developer.
+- 💼 Completed Full Stack Developer training with Digital Egypt Pioneers (DEPI) using React, .NET, and SQL Server
 - 🧠 Passionate about clean UI, solid backend architecture, and solving real-world problems.
 - 🤝 I’ve worked in Agile teams and delivered real-world applications using React, .NET, and SQL Server.
 
